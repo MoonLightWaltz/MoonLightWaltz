@@ -16,6 +16,7 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+  ![Visual Studio](https://img.shields.io/twitter/url?color=%235C2D91&label=Visual%20Studio&logo=Visual%20Studio&logoColor=%235C2D91&style=flat-square&url=https%3A%2F%2Fshields.io)
 
 <!--
 **MoonLightWaltz/MoonLightWaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
