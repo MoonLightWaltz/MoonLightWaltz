@@ -8,7 +8,7 @@
   <br>
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-bushnell-149346202/)
-  [![Outlook](https://img.shields.io/badge/Email-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](href="mailto:kyle.bushnell@hotmail.com">Send Email)
+  [![Outlook](https://img.shields.io/badge/Email-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kyle.bushnell@hotmail.com)
   ![Phone-Number](https://custom-icon-badges.demolab.com/badge/-847--903--8059-green?style=for-the-badge&logo=phone&logoColor=white)
   
   <h2> What I Work With </h2>
