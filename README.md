@@ -6,6 +6,7 @@
   <p> I am a Front-End Developer with fundemental knowledge of HTML, JavaScript, CSS and React. I come from a tech background as an IT Support Technician at Zen Focus Tech. I am a junior level developer and I am eager to learn new skills from new opportunities. I enjoy the process of problem solving and enjoy working with computers. Tech is fascinating to me becasue there is always something new to learn. <p>
   </div>
   <br>
+  
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-bushnell-149346202/)
 
 <!--
