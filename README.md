@@ -3,7 +3,7 @@
 <h3> Front-End Developer <h3>
   <br>
   <div>
-  <p> I am a Front-End Developer with fundemental knowledge of HTML, JavaScript, CSS and React. I come from a tech background as an IT Support Technician at Zen Focus Tech. I am a junior level developer and I am eager to learn new skills from new opportunities. I enjoy the process of problem solving and enjoy working with computers. Tech is fascinating to me becasue there is always something new to learn. <p>
+  <p> I am a Front-End Developer with fundemental knowledge of HTML, JavaScript, CSS and React. I come from a tech background as an IT Support Technician at Zen Focus Tech. I am a junior level developer and I am eager to learn new skills from new opportunities. I enjoy the process of problem solving and working with computers. Tech is fascinating to me because there is always something new to learn. <p>
   </div>
   <br>
   
