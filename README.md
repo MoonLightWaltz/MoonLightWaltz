@@ -1,9 +1,8 @@
 <h1> 💾 MoonLightWaltz </h1>
 
 <h2> Hey, I'm Lee </h2>
-  <br>
   <div>
-  <p> I am a Front-End Developer with fundemental knowledge of HTML, JavaScript, CSS and React. I come from a tech background as an IT Support Technician at Zen Focus Tech. I am a junior level developer and I am eager to learn new skills from new opportunities. I enjoy the process of problem solving and working with computers. Tech is fascinating to me because there is always something new to learn. <p>
+  <p> I am a Front-End Developer with fundemental knowledge of HTML, JavaScript, CSS and React. I come from a tech background as an IT Support Technician at Zen Focus Tech. I am a junior level developer and I am eager to learn new skills from new opportunities. I enjoy the process of problem solving and working with computers. Tech is fascinating to me because there is always something new to learn. Once I have finished refining my skills in front-end I plan to study back-end as well. Making my way towards being a Full-Stack Developer. <p>
   </div>
   <br>
   <h2> Get in Touch With Me </h2>
