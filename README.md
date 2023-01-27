@@ -2,7 +2,9 @@
 
 <h3> Front-End Developer <h3>
   <br>
-  <p> I am a Front-End Developer with fundemental knowledge of HTML, JavaScript, CSS and React. I come from a tech background as an IT Support Technician at Zen Focus Tech <p>
+  <div>
+  <p> I am a Front-End Developer with fundemental knowledge of HTML, JavaScript, CSS and React. I come from a tech background as an IT Support Technician at Zen Focus Tech. I am a junior level developer and I am eager to learn new skills from new opportunities. <p>
+  </div>
 
 <!--
 **MoonLightWaltz/MoonLightWaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
