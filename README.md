@@ -20,6 +20,7 @@
   ![made-with-bash](https://img.shields.io/badge/bash-1D2D35?style=for-the-badge&logo=GNU-Bash&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Visual-Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!--
 **MoonLightWaltz/MoonLightWaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
