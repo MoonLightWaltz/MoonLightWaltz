@@ -11,7 +11,7 @@
   [![Outlook](https://img.shields.io/badge/Email-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kyle.bushnell@hotmail.com)
   ![Phone-Number](https://custom-icon-badges.demolab.com/badge/-847--903--8059-green?style=for-the-badge&logo=phone&logoColor=white)
   
-  <h2> What I Work With </h2>
+  <h2> I am a Front-End Developer with fundemental knowledge of HTML, JavaScript, CSS and React. I come from a tech background as an IT Support Technician at Zen Focus Tech. I am a junior level developer and I am eager to learn new skills from new opportunities. I enjoy the process of problem solving and working with computers. Tech is fascinating to me because there is always something new to learn. Once I have finished refining my skills in front-end I plan to study back-end as well. Making my way towards being a Full-Stack Developer </h2>
   
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
