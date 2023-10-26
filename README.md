@@ -2,7 +2,7 @@
 
 <h2> Hey, I'm Lee </h2>
   <div>
-  <p> I am a Front-End Developer with fundemental knowledge of HTML, JavaScript, CSS and React. I come from a tech background as an IT Support Technician at Zen Focus Tech. I am a junior level developer and I am eager to learn new skills from new opportunities. I enjoy the process of problem solving and working with computers. Tech is fascinating to me because there is always something new to learn. Once I have finished refining my skills in front-end I plan to study back-end as well. Making my way towards being a Full-Stack Developer <p>
+  <p> I am a Junior Front-End Developer with fundemental knowledge of HTML, JavaScript, CSS. I come from a tech background as an IT Support Technician at Zen Focus Tech. I am a junior level developer and I am eager to learn new skills from new opportunities. I enjoy the process of problem solving and working with computers. Tech is fascinating to me because there is always something new to learn. Once I have finished refining my skills in front-end I plan to study back-end as well. Making my way towards being a Full-Stack Developer <p>
   </div>
   <h2> Get in Touch With Me </h2>
   <br>
@@ -16,7 +16,6 @@
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
   ![Bash](https://img.shields.io/badge/bash-1D2D35?style=for-the-badge&logo=GNU-Bash&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Visual-Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
