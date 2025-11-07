@@ -21,4 +21,4 @@
   ![Visual-Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Microsoft-Office](https://img.shields.io/badge/Office365-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
-  [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
