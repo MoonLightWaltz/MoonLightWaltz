@@ -3,12 +3,12 @@
 <h2> Hey, I'm Lee </h2>
   <div>
   <p> I'm a self taught junior full stack developer specializing in the MERN stack.
-    Proffesional looker upper of things on google.
-    Spend 20 mins on leet code questions and then look up the answer when I'm stuck to better understand the flow? ❌ 
-    Spend 3 hours taking notes and trying to figure it out on my own, failing and then looking up the answer anyways? ✅
-    Vibecoding? We Ragecoding here, get angry if it works and I don't understand why, get angry if it doesn't work and I still don't know why.
-    Need someone to laugh at your tech jokes at the next company party so you look cool? I got you.
-    Would like to get my feet wet in this industry, if I have to reset one more user password in IT ima lose it.
+    Proffesional looker upper of things on google. <br>
+    Spend 20 mins on leet code questions and then look up the answer when I'm stuck to better understand the flow? ❌ <br>
+    Spend 3 hours taking notes and trying to figure it out on my own, failing and then looking up the answer anyways? ✅ <br>
+    Vibecoding? We Ragecoding here, get angry if it works and I don't understand why, get angry if it doesn't work and I still don't know why. <br>
+    Need someone to laugh at your tech jokes at the next company party so you look cool? I got you. <br>
+    Would like to get my feet wet in this industry, if I have to reset one more user password in IT ima lose it. <br>
     <p>
   </div>
   <h2> Get in Touch With Me </h2>
