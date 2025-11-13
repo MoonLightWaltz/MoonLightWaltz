@@ -2,7 +2,14 @@
 
 <h2> Hey, I'm Lee </h2>
   <div>
-  <p> I am a Junior Front-End Developer with fundemental knowledge of HTML, JavaScript, CSS. I come from a tech background as an IT Support engnieer teir 2. I am eager to learn new skills from new opportunities and I enjoy the process of problem solving and working with computers. Tech is fascinating to me because there is always something new to learn and and it is ever evolving. I want to be at the forefront of technology and the future. Once I have finished refining my skills in front-end I plan to study back-end as well. Making my way towards being a Full-Stack Developer, <p>
+  <p> I'm a self taught junior full stack developer specializing in the MERN stack.
+    Proffesional looker upper of things on google.
+    Spend 20 mins on leet code questions and then look up the answer when I'm stuck to better understand the flow? ❌ 
+    Spend 3 hours taking notes and trying to figure it out on my own, failing and then looking up the answer anyways? ✅
+    Vibecoding? We Ragecoding here, get angry if it works and I don't understand why, get angry if it doesn't work and I still don't know why.
+    Need someone to laugh at your tech jokes at the next company party so you look cool? I got you.
+    Would like to get my feet wet in this industry, if I have to reset one more user password in IT ima lose it.
+    <p>
   </div>
   <h2> Get in Touch With Me </h2>
   <br>
